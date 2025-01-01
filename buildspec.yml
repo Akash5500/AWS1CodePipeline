@@ -25,4 +25,4 @@ phases:
     commands:
       - echo "Build completed successfully!"
       - echo "Listing files in the base directory:"
-      - ls -la
+      - ls -la 
